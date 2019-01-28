@@ -1,0 +1,4 @@
+     2.610 { 107589531}: ReceiveThread(): ReapAsyncNocancel() Error: -5, Win_GetLastError: 31
+     2.625 { 107589546}: ReceiveThread(): ReapAsyncNocancel()=-116 && GetLastError()=995 => Sleep/Hibernate occured and reset device
+     9.937 { 120084046}: ReceiveThread(): ReapAsyncNocancel() Error: -5, Win_GetLastError: 31
+     9.937 { 120084046}: ReceiveThread(): ReapAsyncNocancel()=-116 && GetLastError()=995 => Sleep/Hibernate occured and reset device

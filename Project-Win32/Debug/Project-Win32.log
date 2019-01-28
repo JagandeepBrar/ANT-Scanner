@@ -1,0 +1,12 @@
+﻿  libant.cpp
+  initialize.cpp
+  definitions.cpp
+  analyzer.cpp
+c:\users\jagan\documents\github\university\comp4300\ant+ scanner\project-win32\project-win32\analyzer.cpp(176): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+c:\users\jagan\documents\github\university\comp4300\ant+ scanner\project-win32\project-win32\analyzer.cpp(156): warning C4715: 'WndProc': not all control paths return a value
+c:\users\jagan\documents\github\university\comp4300\ant+ scanner\project-win32\project-win32\initialize.cpp(106): warning C4172: returning address of local variable or temporary: buff
+  LINK : C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\Project-Win32.exe not found or not built by the last incremental link; performing full link
+  Project-Win32.vcxproj -> C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\Project-Win32.exe
+  Project-Win32.vcxproj -> C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\Project-Win32.pdb (Full PDB)

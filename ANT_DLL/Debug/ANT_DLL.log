@@ -1,0 +1,6 @@
+﻿  ant.cpp
+  LINK : C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\ANT_DLL.dll not found or not built by the last incremental link; performing full link
+ant.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\ANT_DLL.lib and object C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\ANT_DLL.exp
+  ANT_DLL.vcxproj -> C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\ANT_DLL.dll
+  ANT_DLL.vcxproj -> C:\Users\Jagan\Documents\GitHub\University\COMP4300\ANT+ Scanner\Project-Win32\Debug\ANT_DLL.pdb (Full PDB)
